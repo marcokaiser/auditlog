@@ -1,0 +1,25 @@
+{
+  "name": "auditor",
+  "description": "simple multi-transport audit log module with triggers",
+  "version": "0.0.1",
+  "homepage": "http://github.com/marcokaiser/auditor",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/marcokaiser/auditor.git"
+  },
+  "author": "Marco Kaiser <marco@ocr.am>",
+  "main": "./index",
+  "directories": {
+    "lib": "."
+  },
+  "dependencies": {
+    "lodash": "~1"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+  }
+}
