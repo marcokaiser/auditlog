@@ -1,11 +1,11 @@
 {
-  "name": "auditor",
+  "name": "auditlog",
   "description": "simple multi-transport audit log module with triggers",
   "version": "0.0.1",
-  "homepage": "http://github.com/marcokaiser/auditor",
+  "homepage": "http://github.com/marcokaiser/auditlog",
   "repository": {
     "type": "git",
-    "url": "http://github.com/marcokaiser/auditor.git"
+    "url": "http://github.com/marcokaiser/auditlog.git"
   },
   "author": "Marco Kaiser <marco@ocr.am>",
   "main": "./index",

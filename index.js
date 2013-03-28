@@ -1,1 +1,1 @@
-exports = module.exports = require('./lib/auditor.js');
+exports = module.exports = require('./lib/auditlog.js');
