@@ -1,7 +1,7 @@
 {
   "name": "auditlog",
   "description": "simple multi-transport audit log module with triggers",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "http://github.com/marcokaiser/auditlog",
   "repository": {
     "type": "git",
@@ -13,8 +13,12 @@
     "lib": "."
   },
   "dependencies": {
-    "lodash": "~1"
+    "lodash": "~1",
+		"mongoose": "~3.6",
+		"nodemailer": "~0.4"
   },
+	"peerDependencies": {
+	},
   "devDependencies": {
   },
   "engines": {
